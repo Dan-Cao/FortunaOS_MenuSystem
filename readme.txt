@@ -1,6 +1,8 @@
 FortunaOS extended with Menu System
 
-The main.cpp contains an example of how the menu system can be used.
+Use the up and down arrow keys to navigate the current level of the menu, and left and right to switch between depths.
+The centre button will run the selected task, if applicable.
+main.cpp contains an example of how the menu system can be used.
 
 This work, "FortunaOS with Menu System" is a derivative of the following works:
 FortunaOS - comprises of the work of multiple authors, integrated by Klaus-Peter Zauner.
